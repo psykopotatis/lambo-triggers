@@ -43,7 +43,7 @@ function App() {
     <ConfigProvider>
       <div className="container mt-5">
         <h1 className="text-center mb-4">Lambo-triggers 🚀</h1>
-        <Table dataSource={data} columns={columns} rowKey="stockName" pagination={false} />
+        <Table dataSource={data} columns={columns} rowKey="stockName" pagination={false} scroll={{ x: 'max-content' }} />
       </div>
     </ConfigProvider>
   );
