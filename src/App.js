@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
+import { Table, ConfigProvider } from 'antd';
 import './App.css';
 import triggerData from './data';
+import 'antd/dist/reset.css'; // Import Ant Design styles
 
 function App() {
   const [data, setData] = useState([]);
@@ -14,30 +16,36 @@ function App() {
     setData(sortedData);
   }, []);
 
+  const columns = [
+    {
+      title: 'Aktienamn',
+      dataIndex: 'stockName',
+      key: 'stockName',
+    },
+    {
+      title: 'Trigger',
+      dataIndex: 'trigger',
+      key: 'trigger',
+    },
+    {
+      title: 'Uppskattat datum',
+      dataIndex: 'date',
+      key: 'date',
+    },
+    {
+      title: 'Original Datum',
+      dataIndex: 'originalDate',
+      key: 'originalDate',
+    },
+  ];
+
   return (
-    <div className="container mt-5">
-      <h1 className="text-center mb-4">Lambo-triggers 🚀</h1>
-      <table className="table table-striped table-hover">
-        <thead className="table-dark">
-          <tr>
-            <th scope="col">Aktienamn</th>
-            <th scope="col">Trigger</th>
-            <th scope="col">Uppskattat datum</th>
-            <th scope="col">Original Datum</th>
-          </tr>
-        </thead>
-        <tbody>
-          {data.map((item, index) => (
-            <tr key={index}>
-              <td>{item.stockName}</td>
-              <td>{item.trigger}</td>
-              <td>{item.date}</td>
-              <td>{item.originalDate}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
-    </div>
+    <ConfigProvider>
+      <div className="container mt-5">
+        <h1 className="text-center mb-4">Lambo-triggers 🚀</h1>
+        <Table dataSource={data} columns={columns} rowKey="stockName" pagination={false} />
+      </div>
+    </ConfigProvider>
   );
 }
 
