@@ -87,7 +87,7 @@ function App() {
   return (
       <ConfigProvider>
         <div className="container mt-5">
-          <h1 className="text-center mb-4">Lambo-triggers 🚀</h1>
+          <h1 className="text-center mb-4">Lambo aktie-triggers! 🚀</h1>
           <Table
               className="lambo-table"
               dataSource={data}
