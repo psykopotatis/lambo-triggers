@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Table, ConfigProvider } from 'antd';
+import { Table, ConfigProvider, Tag } from 'antd';
 import { DownOutlined, RightOutlined } from '@ant-design/icons';
 import './App.css';
 import triggerData from './data';
@@ -55,6 +55,17 @@ function App() {
       title: 'Impact',
       dataIndex: 'triggerImpact',
       key: 'triggerImpact',
+      render: (text) => {
+        let color = 'default';
+        if (text === 'hög') {
+          color = 'volcano';
+        } else if (text === 'jättehög') {
+          color = 'red';
+        } else if (text === 'medelhög') {
+          color = 'orange';
+        }
+        return <Tag color={color}>{text}</Tag>;
+      },
     },
     {
       title: 'Impact %',
