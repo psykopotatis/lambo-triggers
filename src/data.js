@@ -163,17 +163,22 @@ const triggerData = [
     },
     {
         "stockName": "Gomero",
-        "trigger": "Avtal med western power",
+        "trigger": "Avtal med Western Power",
         "date": "2026-03-31",
-        "originalDate": "H2 ’25 - Q1 ’26"
+        "originalDate": "H2 ’25 - Q1 ’26",
+        "triggerDescription": "Ett potentiellt storskaligt avtal med Western Power – det statliga elbolaget i Västra Australien med över 2,3 miljoner kunder:contentReference[oaicite:0]{index=0} – efter det pågående pilotprojektet. Gomero fick 2024 en initial order (~0,5 Mkr) via partnern KingHill för att Western Power ska utvärdera SIPP-plattformen på sina transformatorstationer:contentReference[oaicite:1]{index=1}. Om utvärderingen faller väl ut och Western Power beslutar att rulla ut SIPP i full skala (t.ex. på majoriteten av sina ~500 stationer) skulle det innebära ett genombrottsavtal för Gomero, potentiellt i storleksordning med eller större än Gomeros tidigare ~20 Mkr-order från svenska Ellevio:contentReference[oaicite:2]{index=2}. Ett sådant avtal skulle bekräfta Gomeros teknik på en ny marknad, ge betydande återkommande intäkter och väntas lyfta aktien markant (Gomeros börsvärde är lågt, så uppsidan bedöms hög – kanske kring 50 %).",
+        "triggerImpact": "hög",
+        "triggerImpactPercentage": 50
     },
     {
         "stockName": "Ascelia Pharma",
         "trigger": "Avtal med partner",
         "date": "2025-09-30",
-        "originalDate": "q2/q3"
+        "originalDate": "q2/q3",
+        "triggerDescription": "Ett kommersiellt partnerskapsavtal för Ascelias ledande läkemedel Orviglance (en kontrastvätska för lever-MRI vid nedsatt njurfunktion). Efter framgångsrika fas-III-resultat för Orviglance (studien SPARKLE visade signifikant förbättrad visualisering av levertumörer) är bolagets fokus nu att säkra en lanseringspartner:contentReference[oaicite:3]{index=3}. FDA-ansökan planeras lämnas in omkring mitten av 2025:contentReference[oaicite:4]{index=4} och parallellt pågår dialog med potentiella partners om marknadsföring/distribution. Ett avtal skulle sannolikt ge Ascelia upfront-betalning och milstolpar samt tillgång till partnerns kommersiella infrastruktur – vilket avsevärt minskar Ascelias finansieringsbehov och bekräftar Orviglances marknadspotential. Aktien förväntas reagera klart positivt om ett partneravtal annonseras, då det eliminerar mycket osäkerhet; uppsidan bedöms som hög (t.ex. i storleksordningen +30–50 %).",
+        "triggerImpact": "hög",
+        "triggerImpactPercentage": 40
     }
-
 ];
 
 export default triggerData;
