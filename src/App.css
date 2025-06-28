@@ -52,3 +52,8 @@
   border-radius: 5px; 
   padding: 2rem;
 }
+
+.lambo-table .ant-table-cell {
+  vertical-align: top !important;
+}
+
