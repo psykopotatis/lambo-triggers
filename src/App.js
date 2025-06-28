@@ -28,6 +28,16 @@ function App() {
       key: 'trigger',
     },
     {
+      title: 'Impact',
+      dataIndex: 'triggerImpact',
+      key: 'triggerImpact',
+    },
+    {
+      title: 'Impact %',
+      dataIndex: 'triggerImpactPercentage',
+      key: 'triggerImpactPercentage',
+    },
+    {
       title: 'Uppskattat datum',
       dataIndex: 'date',
       key: 'date',
