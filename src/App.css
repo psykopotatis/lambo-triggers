@@ -51,6 +51,7 @@
   transition: 0.3s;
   border-radius: 5px; 
   padding: 2rem;
+  max-width: 90%;
 }
 
 .lambo-table .ant-table-cell {

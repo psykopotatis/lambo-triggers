@@ -4,6 +4,7 @@ import { DownOutlined, RightOutlined } from '@ant-design/icons';
 import './App.css';
 import triggerData from './data';
 import 'antd/dist/reset.css';
+import InfoBox from './infobox';
 
 const { Option } = Select;
 
@@ -119,6 +120,7 @@ function App() {
       <ConfigProvider>
         <div className="container mt-5">
           <h1 className="text-center mb-4">Lambo aktie-triggers! 🚀</h1>
+          <InfoBox />
           <div style={{ marginBottom: 16 }}>
             Filters: <br/>
             <Select
