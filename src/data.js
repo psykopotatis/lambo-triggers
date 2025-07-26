@@ -178,6 +178,69 @@ const triggerData = [
         "triggerDescription": "Ett kommersiellt partnerskapsavtal för Ascelias ledande läkemedel Orviglance (en kontrastvätska för lever-MRI vid nedsatt njurfunktion). Efter framgångsrika fas-III-resultat för Orviglance (studien SPARKLE visade signifikant förbättrad visualisering av levertumörer) är bolagets fokus nu att säkra en lanseringspartner. FDA-ansökan planeras lämnas in omkring mitten av 2025 och parallellt pågår dialog med potentiella partners om marknadsföring/distribution. Ett avtal skulle sannolikt ge Ascelia upfront-betalning och milstolpar samt tillgång till partnerns kommersiella infrastruktur – vilket avsevärt minskar Ascelias finansieringsbehov och bekräftar Orviglances marknadspotential. Aktien förväntas reagera klart positivt om ett partneravtal annonseras, då det eliminerar mycket osäkerhet; uppsidan bedöms som hög (t.ex. i storleksordningen +30–50 %).",
         "triggerImpact": "hög",
         "triggerImpactPercentage": "+30–50%"
-    }
+    },
+    {
+        "stockName": "District Metals Corp",
+        "trigger": "Beslut om att häva uranförbudet",
+        "date": "2025-12-31",
+        "originalDate": "Q3/Q4",
+        "triggerDescription": "Sveriges regering föreslår att upphäva förbudet mot uranbrytning, och en omröstning i riksdagen väntas under hösten 2025 (Q3/Q4), med ny lag i så fall gällande från 1 jan 2026:contentReference[oaicite:0]{index=0}. Om förbudet avskaffas kan District Metals återuppta prospektering och utveckling av sina svenska uranrika tillgångar, bland annat Viken-fyndigheten med betydande uran- och vanadiuminnehåll. Ett slopat uranförbud skulle undanröja ett stort regulatoriskt hinder för bolaget och markant öka potentialen för dess projekt.",
+        "triggerImpact": "hög",
+        "triggerImpactPercentage": "+40–80%"
+    },
+    {
+        "stockName": "Alzinova",
+        "trigger": "Fas 1b-data (ALZ-101)",
+        "date": "2025-07-31",
+        "originalDate": "slutet av juli",
+        "triggerDescription": "Alzinova väntas presentera slutdata från sin fas 1b-studie med vaccinkandidaten ALZ-101 mot Alzheimers sjukdom i slutet av juli 2025. Studien utvärderar säkerhet och immunrespons hos patienter, och tidigare delresultat visar på god tolerabilitet och ett starkt, oligomer-specifikt immunsvar hos >95 % av patienterna:contentReference[oaicite:1]{index=1}:contentReference[oaicite:2]{index=2}. Positiva fas 1b-data skulle bekräfta plattformens potential och bana väg för en fas 2-studie, vilket kan attrahera partnerintresse givet det enorma behovet inom Alzheimers.",
+        "triggerImpact": "hög",
+        "triggerImpactPercentage": "+30–60%"
+    },
+    {
+        "stockName": "Cereno Scientific",
+        "trigger": "Toplineresultat fas I (CS014)",
+        "date": "2025-07-31",
+        "originalDate": "~juli",
+        "triggerDescription": "Cereno Scientific räknar med att topline-resultat från bolagets fas I-studie av CS014 (en ny HDAC-hämmare) kan presenteras omkring juli 2025:contentReference[oaicite:3]{index=3}. CS014 är en epigenetisk läkemedelskandidat med multimodal verkningsmekanism som siktar på underliggande sjukdomsprocesser vid svåra kardiovaskulära och lungsjukdomar (den första indikationen är idiopatisk lungfibros):contentReference[oaicite:4]{index=4}. Fas I-prövningen i friska frivilliga har fokuserat på säkerhet, tolerabilitet och farmakokinetik, och ett positivt utfall (utan dosbegränsande biverkningar) skulle möjliggöra start av fas II-studier och öka chanserna till partnerskap eller fortsatt finansiering.",
+        "triggerImpact": "mellan",
+        "triggerImpactPercentage": "+10–25%"
+    },
+    {
+        "stockName": "Leading Edge Materials Corp.",
+        "trigger": "Ansökan om strategiskt projekt-status (CRMA)",
+        "date": "2025-12-31",
+        "originalDate": "slutet av sommaren (utfall ~Q4)",
+        "triggerDescription": "EU:s initiativ Critical Raw Materials Act (CRMA) öppnar en ny ansökningsrunda för strategiska projekt mot slutet av sommaren 2025, och Leading Edge Materials avser att återigen ansöka om att klassas som \"Strategiskt projekt\" för sin svenska tunga sällsynta jordartsfyndighet Norra Kärr:contentReference[oaicite:5]{index=5}. Ett beslut kring denna ansökan väntas omkring Q4 2025. Om Norra Kärr erhåller strategiskt projekt-status enligt CRMA skulle det bekräfta projektets vikt för EU och underlätta tillstånd och finansiering, vilket sannolikt gynnar aktien.",
+        "triggerImpact": "mellan",
+        "triggerImpactPercentage": "+15–30%"
+    },
+    {
+        "stockName": "Bioextrax",
+        "trigger": "Avtal med globalt kemiföretag (LoI)",
+        "date": "2025-09-30",
+        "originalDate": "30 september",
+        "triggerDescription": "Bioextrax har förlängt sin bindande avsiktsförklaring (LoI) med ett av världens tre största kemiföretag till den 30 september 2025:contentReference[oaicite:6]{index=6}. Syftet är att parterna före detta datum ska enas om ett långsiktigt avtal rörande Bioextrax teknologi för bioplasten PHA (medium-chain-length PHA) inom Home & Personal Care-sektorn:contentReference[oaicite:7]{index=7}. Om ett slutligt licensavtal tecknas med detta globala topp-3 kemibolag skulle det innebära ett genombrott för Bioextrax och förväntas ge en mycket kraftig kursreaktion.",
+        "triggerImpact": "jättehög",
+        "triggerImpactPercentage": "+80–150%"
+    },
+    {
+        "stockName": "Immunovia",
+        "trigger": "USA-lansering av PancreaSure",
+        "date": "2025-09-30",
+        "originalDate": "september",
+        "triggerDescription": "Immunovia förbereder en kommersiell lansering av sitt blodtest PancreaSure för tidig upptäckt av bukspottkörtelcancer på den amerikanska marknaden i september 2025:contentReference[oaicite:8]{index=8}. PancreaSure är ett nästa generations test som med hjälp av AI-baserad biomarköranalys upptäcker tidiga stadier av pankreascancer hos högriskpatienter:contentReference[oaicite:9]{index=9}. En lyckad USA-lansering – tillsammans med ytterligare studier för att visa kliniskt värde och säkra ersättning – skulle stärka Immunovias kommersiella utsikter avsevärt efter en utmanande utvecklingsfas.",
+        "triggerImpact": "mellan",
+        "triggerImpactPercentage": "+10–30%"
+    },
+    {
+        "stockName": "Xoma",
+        "trigger": "Slutfört utvecklingsprojekt med Alfa Laval",
+        "date": "2025-12-31",
+        "originalDate": "slutet av 2025",
+        "triggerDescription": "Xoma AB genomför i samarbete med Alfa Laval ett utvecklingsprojekt för att integrera Alfa Lavals högvarvseparatorer i Xomas algproduktionssystem, med målet att effektivt separera odlade mikroalger från vatten:contentReference[oaicite:10]{index=10}. Projektet finansieras helt av Alfa Laval och Xoma räknar med att det ska vara färdigställt till slutet av 2025 om utvecklingen går enligt plan:contentReference[oaicite:11]{index=11}. Ett framgångsrikt slutförande av projektet skulle utgöra en viktig milstolpe som möjliggör pilotprojekt med industriella partners och banar väg för kommersialisering av Xomas algteknologi (FLOW), vilket väntas ge påtaglig kurspotential.",
+        "triggerImpact": "hög",
+        "triggerImpactPercentage": "+30–60%"
+    }    
 ];
 export default triggerData;

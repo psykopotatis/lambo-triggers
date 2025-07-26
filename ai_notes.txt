@@ -1,0 +1,13 @@
+Perfekt, jag kommer nu revidera hela triggerlistan så att:
+
+triggerImpactPercentage sätts som ett intervall (t.ex. "+40–100%")
+
+triggerImpact matchar den nya uppdelningen:
+
+låg: 0–10%
+
+mellan: 10–30%
+
+hög: 30–80%
+
+jättehög: 80–300%
