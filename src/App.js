@@ -58,7 +58,7 @@ function App() {
       title: 'Trigger',
       dataIndex: 'trigger',
       key: 'trigger',
-      width: 300,
+      width: 500,
       render: (_, record) => {
         const rowKey = record.stockName + record.trigger;
         const isExpanded = expandedRows[rowKey];
