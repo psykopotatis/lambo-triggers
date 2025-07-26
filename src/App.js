@@ -26,6 +26,7 @@ function App() {
       title: 'Aktienamn',
       dataIndex: 'stockName',
       key: 'stockName',
+      sorter: (a, b) => a.stockName.localeCompare(b.stockName),
     },
     {
       title: 'Trigger',

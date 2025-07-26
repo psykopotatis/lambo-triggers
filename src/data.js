@@ -241,6 +241,105 @@ const triggerData = [
         "triggerDescription": "Xoma AB genomför i samarbete med Alfa Laval ett utvecklingsprojekt för att integrera Alfa Lavals högvarvseparatorer i Xomas algproduktionssystem, med målet att effektivt separera odlade mikroalger från vatten:contentReference[oaicite:10]{index=10}. Projektet finansieras helt av Alfa Laval och Xoma räknar med att det ska vara färdigställt till slutet av 2025 om utvecklingen går enligt plan:contentReference[oaicite:11]{index=11}. Ett framgångsrikt slutförande av projektet skulle utgöra en viktig milstolpe som möjliggör pilotprojekt med industriella partners och banar väg för kommersialisering av Xomas algteknologi (FLOW), vilket väntas ge påtaglig kurspotential.",
         "triggerImpact": "hög",
         "triggerImpactPercentage": "+30–60%"
-    }    
+    },
+  {
+    "stockName": "Cereno Scientific",
+    "trigger": "Partneravtal/licensaffär",
+    "date": "2025-09-30",
+    "originalDate": "Q3 2025 (före september)",
+    "triggerDescription": "Cereno förväntas tillkännage ett större partnerskap eller licensavtal under andra halvåret 2025. Bolaget har nyligen säkrat finansiering med minimalt utspädande lån och antytt att man för dialog med flera potentiella partners, vilket tyder på att en affär kan vara nära. Cerenos fas IIa-resultat med CS1 i PAH var framgångsrika och fas I-data för CS014 lovande, vilket ökar attraktionskraften – Merck betalade t.ex. miljardsummor för konkurrenten Sotatercept inom PAH. Edison-analys noterar också att partnersamtal sannolikt pågår under tiden fram till nästa studie:contentReference[oaicite:0]{index=0}. Ett avtal med en större aktör (med signifikant upfront-betalning och milstolpar) skulle vara transformerande för Cereno och väntas driva aktien **kraftigt** uppåt.",
+    "triggerImpact": "hög",
+    "triggerImpactPercentage": "+40–80%"
+  },
+  {
+    "stockName": "Ascelia Pharma",
+    "trigger": "Kommersiellt partneravtal (USA-marknad Orviglance)",
+    "date": "2025-08-31",
+    "originalDate": "mitten av augusti 2025",
+    "triggerDescription": "Ascelia Pharma väntas teckna ett partneravtal för den amerikanska marknaden för sitt kontrastmedel Orviglance inom kort, i samband med att bolaget kring mitten av augusti 2025 skickar in sin FDA-ansökan. I en intervju har VD antytt att de potentiella milstolpsbetalningarna och royalties från ett sådant avtal skulle vara mycket betydande relativt Ascelias nuvarande börsvärde. Orviglance har nyligen visat positiva fas III-resultat (SPARKLE-studien) och ett kommersiellt partnerskap skulle ge upfront-kapital, dela kostnaderna för lansering och bekräfta marknadspotentialen. För Ascelia, som annars behöver resa mer kapital själv, skulle ett partneravtal undanröja osäkerhet och sannolikt lyfta aktien **betydligt** (storleksordningen tiotals procent uppgång).",
+    "triggerImpact": "hög",
+    "triggerImpactPercentage": "+30–50%"
+  },
+  {
+    "stockName": "Diamyd Medical",
+    "trigger": "Interimsresultat fas III (Diamyd®-vaccinet)",
+    "date": "2026-03-31",
+    "originalDate": "mars 2026",
+    "triggerDescription": "En tidig interimsavläsning av den pågående fas III-studien DIAGNODE-3 med diabetesvaccinet Diamyd® mot typ 1-diabetes väntas kring mars 2026:contentReference[oaicite:1]{index=1}. Interimen omfattar ca 170 patienter som följts i 15 månader och kommer att utvärdera om behandlingen signifikant bevarar den egna insulinproduktionen (C-peptid) jämfört med placebo:contentReference[oaicite:2]{index=2}. **Utfallet är avgörande**: vid tydligt positiv effekt kan Diamyd söka accelererat godkännande hos FDA, vilket skulle vara ett paradigmskifte och potentiellt mångdubbla aktievärdet (givet det enorma medicinska behovet). Om effekten uteblir falnar däremot caset avsevärt. Marknaden har varit försiktig efter blandade historiska resultat, så ett klart positivt interim-resultat skulle komma som en stor positiv överraskning – med extrem uppsida för aktien.",
+    "triggerImpact": "jättehög",
+    "triggerImpactPercentage": "+150–300%"
+  },
+  {
+    "stockName": "Corline Biomedical",
+    "trigger": "FDA-besked – Kardiums Globe PF-ablation",
+    "date": "2025-12-31",
+    "originalDate": "H2 2025",
+    "triggerDescription": "Under andra halvåret 2025 väntas besked från FDA angående det kanadensiska bolaget Kardiums ablationssystem Globe PF för förmaksflimmer. Kardium, en av Corlines kunder, lämnade in sin ansökan i slutet av 2024 och räknar med FDA-godkännande innan årsskiftet 2025:contentReference[oaicite:3]{index=3}, följt av marknadslansering i början av 2026. Ett godkännande skulle innebära att Kardium skalar upp produktion och lager av katetrar med Corlines ytskiktsbehandling (CHS™-teknologin), vilket redan under 2025 borde ge ökade beställningar till Corline. Det vore första kommersiella genombrottet för Corlines teknik och intäkter via kund, något som bör höja aktiens värdering påtagligt över tid. Effekten vid ett FDA-ja bedöms som klart positiv (omkring **30–50%** kursuppgång i scenariot att samarbetet övergår i full kommersiell fas).",
+    "triggerImpact": "hög",
+    "triggerImpactPercentage": "+30–50%"
+  },
+  {
+    "stockName": "Guard Therapeutics",
+    "trigger": "Topplinjedata fas IIb (POINTER-studien)",
+    "date": "2025-12-31",
+    "originalDate": "slutet av 2025",
+    "triggerDescription": "Guard Therapeutics väntas presentera topplinjeresultat från sin fas IIb-studie POINTER (RMC-035 för njurskydd vid hjärtkirurgi) mot slutet av 2025:contentReference[oaicite:4]{index=4}. Studien har nu fullrekryterat 170 patienter (3 månaders uppföljning), så data kring njurfunktion bekräftas under Q4. Ett **positivt utfall** – d.v.s. om RMC-035 signifikant skyddar njurarna – vore ett genombrott inom akut njurskada och ökar sannolikheten för ett partneravtal eller att bolaget går mot fas III. Givet Guard’s låga börsvärde i relation till den potentiella marknaden kan en framgångsrik fas IIb ge en kraftig omvärdering av aktien. Analytiker på Carnegie räknar exempelvis med ett licensavtal 2026 värt totalt ~$600 m (inklusive ~$35 m upfront) om POINTER utfaller positivt – något som antyder att marknaden undervärderar caset. Sammantaget förväntas en tydlig kursuppgång vid positiva data (förmodligen i storleksordningen **30–70%**).",
+    "triggerImpact": "hög",
+    "triggerImpactPercentage": "+30–70%"
+  },
+  {
+    "stockName": "Medivir",
+    "trigger": "Partneravtal i Japan (fostroxprojektet)",
+    "date": "2025-08-02",
+    "originalDate": "början av augusti 2025",
+    "triggerDescription": "Ett potentiellt licensavtal för Medivirs levercancerprojekt fostrox (MIV-818) i Japan kan vara nära förestående. Medivir fick i juli ett godkännande på ett viktigt japanskt patent som skyddar användningen av fostrox med lenvatinib:contentReference[oaicite:5]{index=5}, vilket anses stärka bolagets position i pågående partnerförhandlingar. Bolagets ledning har tidigare kommunicerat ambitionen att inleda en fas IIb i HCC med partnerhjälp, och om den kommande studien faller väl ut siktar man på Breakthrough Therapy Designation och accelererat godkännande:contentReference[oaicite:6]{index=6} – något som en partner i Japan skulle kunna finansiera. I marknaden spekuleras det att ett japanskt avtal kan offentliggöras i samband med att bolag som Eisai rapporterar i början av augusti. Ett sådant avtal skulle ge kapital (upfront + milstolpar) och extern validering av fostrox, vilket sannolikt ger **kraftigt positiv** kurseffekt (t.ex. hög tvåsiffrig procentuell uppgång).",
+    "triggerImpact": "hög",
+    "triggerImpactPercentage": "+40–80%"
+  },
+  {
+    "stockName": "Xbrane Biopharma",
+    "trigger": "FDA-beslut om Xlucane (ranibizumab biosimilar)",
+    "date": "2025-10-21",
+    "originalDate": "21 oktober 2025",
+    "triggerDescription": "Den 21 oktober 2025 väntas FDA:s besked (BsUFA-datum) för Xbranes biosimilarkandidat till Lucentis, kallad Xlucane:contentReference[oaicite:7]{index=7}. Xlucane är en ranibizumab-biosimilar som redan är godkänd och lanserad i Europa via partnern STADA, men ett amerikanskt godkännande är avgörande eftersom USA utgör den största marknaden för läkemedlet. FDA-granskningen pågår efter att Xbrane åtgärdat tidigare observationsanmärkningar; ett godkännande förutsätter dock att myndigheten ger klartecken efter inspektion av tillverkningsanläggningarna:contentReference[oaicite:8]{index=8}. Om Xlucane blir godkänt i USA kan Xbrane och dess partner omgående börja kommersialisera produkten där, vilket skulle innebära en stor intäktspotential och höja bolagets profil. Aktien förväntas reagera positivt, om än måttligare (godkännandet är delvis förväntat) – sannolikt en uppgång i **10–30 %**-spannet – medan ett avslag skulle ha negativ inverkan.",
+    "triggerImpact": "mellan",
+    "triggerImpactPercentage": "+10–30%"
+  },
+  {
+    "stockName": "BioInvent International",
+    "trigger": "Stort partneravtal eller bud",
+    "date": "2025-12-31",
+    "originalDate": "2025 (rykten under året)",
+    "triggerDescription": "BioInvent ligger i förhandlingar om ett omfattande licens-/partneravtal för minst ett av sina två ledande immunterapiprojekt, onkologikandidaterna BI-1206 och BI-1808. VD har indikerat att ett avtal sannolikt skulle innebära en upfront-betalning i storleksordningen **100+ MUSD**, vilket i så fall överstiger 1 miljard SEK och skulle vara banbrytande för bolaget. Därtill spekulerar analyshuset Pareto i att BioInvent kan bli **uppköpt** under 2025; Pareto har en riktkurs på 134 kr (jämfört med kurs ~40 kr i juli). Bolaget är redan uppmärksammat internationellt (utländska specialistfonder äger över 50 % av aktierna), men ett konkret avtal med Big Pharma skulle validera BioInvents antikroppsplattform och trygga finansieringen för vidare studier. Givet bolagets nuvarande värdering skulle en sådan nyhet kunna ge en **mycket stor** kurseffekt – ett större licensavtal kan lätt lyfta aktien kanske 50–100 %, och vid ett eventuellt bud kan uppsidan vara ännu högre.",
+    "triggerImpact": "jättehög",
+    "triggerImpactPercentage": "+80–150%"
+  },
+  {
+    "stockName": "Alzinova",
+    "trigger": "Slutliga fas Ib-data (ALZ-101-vaccinet)",
+    "date": "2025-07-31",
+    "originalDate": "slutet av juli 2025",
+    "triggerDescription": "Alzinova förväntas i slutet av juli 2025 presentera fullständiga data från sin fas 1b-studie med vaccinkandidaten ALZ-101 mot Alzheimers sjukdom. Studien utvärderar säkerhet och immunogenitet hos patienter; tidigare delresultat har visat att vaccinet är säkert och framkallar ett starkt, oligomerspecifikt immunsvar hos över 95 % av de behandlade:contentReference[oaicite:9]{index=9}. Om slutanalysen bekräftar dessa positiva resultat – alltså god tolerabilitet och robust antikroppsrespons – skulle det markant öka värdet på Alzinovas plattform och bana väg för en fas II-studie. Givet det enorma medicinska behovet i Alzheimersfältet kan fina fas 1b-data dessutom väcka intresse från större läkemedelsbolag för partnerskap. Aktien torde reagera klart positivt vid positiva slutdata (uppsidan bedöms som hög, kanske **30–60 %**).",
+    "triggerImpact": "hög",
+    "triggerImpactPercentage": "+30–60%"
+  },
+  {
+    "stockName": "Nanexa",
+    "trigger": "Novo Nordisk-exklusivitet upphör (partnerbesked)",
+    "date": "2025-06-30",
+    "originalDate": "Q2 2025",
+    "triggerDescription": "Novo Nordisks exklusiva utvärderingsavtal med Nanexa löpte ut vid halvårsskiftet 2025, vilket innebär att Novo inte längre har ensamrätt till Nanexas PharmaShell®-plattform:contentReference[oaicite:10]{index=10}. Detta skapar ett avgörande läge där Novo antingen måste agera (förlänga samarbetet, ingå licensavtal eller rentav förvärva Nanexa) för att behålla sin position – eller så står Nanexa fritt att sluta avtal med andra läkemedelsbolag. Bolaget antyder att diskussioner med Novo (och potentiellt andra) pågått under en längre tid och fortskrider positivt:contentReference[oaicite:11]{index=11}. Att Applied Materials nyligen avslutade sitt samarbete (vilket frigjorde Nanexa från vissa begränsningar) tyder också på att Nanexa förbereder sig för ett större industriellt partnerskap. Utfallet efter att exklusivitetsperioden avslutats (t.ex. ett nytt storavtal, förlängning med Novo eller uppköp) förväntas bli en **kraftig kurstrigger** – en affär skulle validera teknologin och sannolikt ge aktien ett rejält lyft.",
+    "triggerImpact": "hög",
+    "triggerImpactPercentage": "+50–80%"
+  },
+  {
+    "stockName": "Saniona",
+    "trigger": "Godkännande av tesofensine i Mexiko",
+    "date": "2025-08-31",
+    "originalDate": "sommaren 2025",
+    "triggerDescription": "Sanionas partnerbolag inväntar ett regulatoriskt godkännande i Mexiko för viktnedgångsläkemedlet tesofensine, vilket uppges kunna komma vilken dag som helst nu under sommaren 2025. Ett godkännande skulle innebära att tesofensine kan lanseras på den mexikanska marknaden (genom partnern, företaget med licensen i Mexiko) och utlösa milstolpsbetalningar till Saniona. Bolaget har dessutom kommunicerat att nya affärsavtal är på gång, vilket kan stärka den framtida intäktsbilden. Givet Sanionas ansträngda finansiella situation skulle ett Mexiko-godkännande vara en välbehövlig framgång och validering av bolagets pipeline, vilket sannolikt leder till en markant positiv reaktion i aktien. Uppgångens storlek kan dämpas något av att det rör sig om ett enskilt lands marknad, men bör ändå vara hög – sannolikt **30–60 %** vid ett positivt besked.",
+    "triggerImpact": "hög",
+    "triggerImpactPercentage": "+30–60%"
+  }    
 ];
 export default triggerData;
