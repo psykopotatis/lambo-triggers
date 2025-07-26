@@ -64,7 +64,7 @@ const triggerData = [
     },
     {
         "stockName": "Synact Pharma",
-        "trigger": "Data fas 2-studie",
+        "trigger": "Data fas 2b-studie",
         "date": "2025-12-31",
         "originalDate": "Q4/Q1 26",
         "triggerDescription": "Resultat från Synacts pågående fas IIb-studie (ADVANCE) med resomelagon (AP1189) i nyligen diagnostiserad svår reumatoid artrit. Bolaget siktar på att ha fullrekryterat studien (ca 240 patienter) till Q4 2025 och presentera de första resultaten strax därefter. Efter tidigare blandade fas II-resultat i RA är detta data som kan bekräfta resomelagons effekt i rätt patientgrupp. Positiva resultat skulle återuppbygga förtroendet och kunna fördubbla kursen (samt underlätta partner/finansiering), medan ännu ett svagt utfall vore förödande. Med nuvarande nedpressat värde bedöms kursreaktionen vid framgång som stor.",
@@ -73,9 +73,9 @@ const triggerData = [
     },
     {
         "stockName": "Dicot",
-        "trigger": "Data (måste nå fullrek först)",
+        "trigger": "Data fas 2a-studie",
         "date": "2025-12-31",
-        "originalDate": "H2? (måste nå fullrek först)",
+        "originalDate": "H2",
         "triggerDescription": "Resultat från Dicots fas IIa-studie av LIB-01 för behandling av erektil dysfunktion. Studien är nu fullrekryterad och sista dosering skedde juni 2025; studien avslutas i augusti och resultaten väntas rapporteras inom ~3 månader därefter (omkring november 2025). LIB-01 har en ny verkningsmekanism med potential för längre varaktighet än befintliga ED-läkemedel. Positiva data skulle vara första bevis på konceptet i patienter och kunna ge ett rejält lyft åt aktien genom ökad sannolikhet för ett partneravtal eller vidare finansiering, även om uppsidan kan dämpas något av Dicots redan relativt höga börsvärde för en fas IIa.",
         "triggerImpact": "hög",
         "triggerImpactPercentage": "+30–60%"
