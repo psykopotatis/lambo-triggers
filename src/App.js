@@ -108,18 +108,13 @@ function App() {
       title: 'Original Datum',
       dataIndex: 'originalDate',
       key: 'originalDate',
-    },
-    {
-      title: 'Type',
-      dataIndex: 'triggerType',
-      key: 'triggerType',
-    },
+    }
   ];
 
   return (
       <ConfigProvider>
         <div className="container mt-5">
-          <h1 className="text-center mb-4">Lambo aktie-triggers! 🚀</h1>
+          <h1 className="text-center mb-4">Aktietriggers! 🚀</h1>
           <InfoBox />
           <div style={{ marginBottom: 16 }}>
             Filters: <br/>

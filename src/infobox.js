@@ -15,7 +15,7 @@ const InfoBox = () => {
         lineHeight: 1.6,
       }}
     >
-      <strong>Hey!</strong> Denna sida visar kommande <strong>aktietriggers</strong> med hög kurspotential – heta tips direkt från discord Lambo.<br />
+      <strong>Hey!</strong> Denna sida visar kommande <strong>aktietriggers</strong> med hög kurspotential.<br />
       <br />
       <strong>Vad är en trigger?</strong> <br />
       En kommande händelse som förväntas påverka kursen kraftigt, t.ex.:
