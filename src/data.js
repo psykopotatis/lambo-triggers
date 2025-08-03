@@ -1,4 +1,4 @@
-[
+const triggerData = [
     {
         "stockName": "Implantica",
         "trigger": "Besked från FDA",
@@ -158,7 +158,7 @@
         "trigger": "Interimavläsning fas-3",
         "date": "2026-03-31",
         "originalDate": "mars 2026",
-        "triggerDescription": "Interimsavläsning av den pågående pivotala fas III-studien (DIAGNODE-3) med diabetesvaccinet Diamyd® mot autoimmun typ 1-diabetes. Interimsanalysen kommer omfatta ~170 patienter med 15 månaders uppföljning och väntas ske runt mars 2026. Syftet är att utläsa om behandlingen signifikant bevarar insulinproduktion (C-peptid) jämfört med placebo. Utfallet är avgörande för Diamyds framtid: **vid positiv effekt** – särskilt om den är tydlig – skulle Diamyd kunna gå mot accelererat godkännande, vilket sannolikt skulle mångdubbla aktiens värde (givet det enorma medicinska behovet och marknadens storlek). **Vid utebliven effekt** däremot riskerar projektet fallera. Givet att förväntningarna är dämpade efter blandade historiska resultat bedöms uppsidan vid ett tydligt positivt interim-resultat som extremt hög.",
+        "triggerDescription": "Interimsavläsning av den pågående pivotala fas III-studien (DIAGNODE-3) med diabetesvaccinet Diamyd® mot autoimmun typ 1-diabetes. Interimsanalysen kommer omfatta ~170 patienter med 15 månaders uppföljning och väntas ske runt mars 2026. Syftet är att utläsa om behandlingen signifikant bevarar insulinproduktion (C-peptid) jämfört med placebo. Utfallet är avgörande för Diamyds framtid: **vid positiv effekt** – särskilt om den är tydlig – skulle Diamyd kunna gå mot accelererat godkännande, vilket sannolikt skulle mångdubbla aktiens värde (givet det enorma medicinska behovet och marknadens storlek). Givet att förväntningarna är dämpade efter blandade historiska resultat bedöms uppsidan vid ett tydligt positivt interim-resultat som extremt hög.",
         "triggerImpact": "jättehög",
         "triggerImpactPercentage": "+150–300%",
         "triggerType": "studie",
@@ -213,9 +213,9 @@
         "trigger": "Avtal med partner",
         "date": "2025-09-30",
         "originalDate": "q2/q3",
-        "triggerDescription": "Ett kommersiellt partnerskapsavtal för Ascelias ledande läkemedel Orviglance (en kontrastvätska för lever-MRI vid nedsatt njurfunktion). Efter framgångsrika fas-III-resultat för Orviglance (studien SPARKLE visade signifikant förbättrad visualisering av levertumörer) är bolagets fokus nu att säkra en lanseringspartner. FDA-ansökan planeras lämnas in omkring mitten av 2025 och parallellt pågår dialog med potentiella partners om marknadsföring/distribution. Ett avtal skulle sannolikt ge Ascelia upfront-betalning och milstolpar samt tillgång till partnerns kommersiella infrastruktur – vilket avsevärt minskar Ascelias finansieringsbehov och bekräftar Orviglances marknadspotential. Aktien förväntas reagera klart positivt om ett partneravtal annonseras, då det eliminerar mycket osäkerhet; uppsidan bedöms som hög (t.ex. i storleksordningen +30–50 %).",
-        "triggerImpact": "hög",
-        "triggerImpactPercentage": "+30–50%",
+        "triggerDescription": "Ett kommersiellt partnerskapsavtal för Ascelias ledande läkemedel Orviglance (en kontrastvätska för lever-MRI vid nedsatt njurfunktion). Efter framgångsrika fas-III-resultat för Orviglance (studien SPARKLE visade signifikant förbättrad visualisering av levertumörer) är bolagets fokus nu att säkra en lanseringspartner. FDA-ansökan planeras lämnas in omkring mitten av 2025 och parallellt pågår dialog med potentiella partners om marknadsföring/distribution. Ett avtal skulle sannolikt ge Ascelia upfront-betalning och milstolpar samt tillgång till partnerns kommersiella infrastruktur – vilket avsevärt minskar Ascelias finansieringsbehov och bekräftar Orviglances marknadspotential. Aktien förväntas reagera klart positivt om ett partneravtal annonseras, då det eliminerar mycket osäkerhet; uppsidan bedöms som jättehög.",
+        "triggerImpact": "jättehög",
+        "triggerImpactPercentage": "+100–150%",
         "triggerType": "partner",
         "avanzaOwners": 7120
     },
@@ -354,11 +354,11 @@
     {
         "stockName": "Medivir",
         "trigger": "Partneravtal i Japan (fostroxprojektet)",
-        "date": "2025-08-02",
-        "originalDate": "början av augusti 2025",
-        "triggerDescription": "Ett potentiellt licensavtal för Medivirs levercancerprojekt fostrox (MIV-818) i Japan kan vara nära förestående. Medivir fick i juli ett godkännande på ett viktigt japanskt patent som skyddar användningen av fostrox med lenvatinib, vilket anses stärka bolagets position i pågående partnerförhandlingar. Bolagets ledning har tidigare kommunicerat ambitionen att inleda en fas IIb i HCC med partnerhjälp, och om den kommande studien faller väl ut siktar man på Breakthrough Therapy Designation och accelererat godkännande – något som en partner i Japan skulle kunna finansiera. I marknaden spekuleras det att ett japanskt avtal kan offentliggöras i samband med att bolag som Eisai rapporterar i början av augusti. Ett sådant avtal skulle ge kapital (upfront + milstolpar) och extern validering av fostrox, vilket sannolikt ger **kraftigt positiv** kurseffekt (t.ex. hög tvåsiffrig procentuell uppgång).",
-        "triggerImpact": "hög",
-        "triggerImpactPercentage": "+40–80%",
+        "date": "2025-12-31",
+        "originalDate": "H2 2025",
+        "triggerDescription": "Ett potentiellt licensavtal för Medivirs levercancerprojekt fostrox (MIV-818) i Japan kan vara nära förestående. Medivir fick i juli ett godkännande på ett viktigt japanskt patent som skyddar användningen av fostrox med lenvatinib, vilket anses stärka bolagets position i pågående partnerförhandlingar. Bolagets ledning har tidigare kommunicerat ambitionen att inleda en fas IIb i HCC med partnerhjälp, och om den kommande studien faller väl ut siktar man på Breakthrough Therapy Designation och accelererat godkännande – något som en partner i Japan skulle kunna finansiera. I marknaden spekuleras det att ett japanskt avtal kan offentliggöras i samband med att bolag som Eisai rapporterar i början av augusti. Ett sådant avtal skulle ge kapital (upfront + milstolpar) och extern validering av fostrox, vilket sannolikt ger kraftigt positiv kurseffekt.",
+        "triggerImpact": "jättehög",
+        "triggerImpactPercentage": "+100–200%",
         "triggerType": "partner",
         "avanzaOwners": 3769
     },
@@ -416,5 +416,50 @@
         "triggerImpactPercentage": "+30–60%",
         "triggerType": "regulatorisk",
         "avanzaOwners": 10183
-    }
-]
+    },
+    {
+        "stockName": "Ascelia Pharma",
+        "trigger": "Inlämning av NDA-ansökan till FDA",
+        "date": "2025-08-15",
+        "originalDate": "mitten av augusti 2025",
+        "triggerDescription": "Ascelia planerar att lämna in sin ansökan (NDA) till FDA för kontrastmedlet Orviglance i mitten av augusti 2025:contentReference[oaicite:0]{index=0}. Orviglance har visat positiva fas III-resultat (SPARKLE-studien) och denna regulatoriska ansökan utgör en viktig milstolpe mot ett marknadsgodkännande i USA. En lyckad inlämning inom utsatt tidsram skulle stärka förtroendet för att projektet fortskrider enligt plan utan oväntade hinder. Eftersom det ännu inte innebär ett godkännande begränsas dock den omedelbara kursreaktionen till en måttlig uppgång – uppskattningsvis runt **10–15 %**.",
+        "triggerImpact": "mellan",
+        "triggerImpactPercentage": "+10–15%",
+        "triggerType": "regulatorisk",
+        "avanzaOwners": 7238
+    },
+    {
+        "stockName": "Ascelia Pharma",
+        "trigger": "Besked från FDA (Orviglance-godkännande)",
+        "date": "2026-03-31",
+        "originalDate": "Q1 2026",
+        "triggerDescription": "Under första kvartalet 2026 väntas Ascelia få besked från FDA avseende Orviglance. Ett godkännande skulle vara omvälvande för bolaget: Orviglance skulle då bli godkänt för försäljning i USA som det första kontrastmedlet särskilt avsett för patienter med nedsatt njurfunktion. Ett sådant positivt besked eliminerar den största regulatoriska risken och banar väg för kommersialisering, vilket sannolikt utlöser en mycket kraftig kurseffekt. Aktien bedöms kunna stiga påtagligt – sannolikt i storleksordningen en fördubbling (**80–120 %**) – vid ett positivt besked.",
+        "triggerImpact": "jättehög",
+        "triggerImpactPercentage": "+80–120%",
+        "triggerType": "regulatorisk",
+        "avanzaOwners": 7238
+    },
+    {
+        "stockName": "Ascelia Pharma",
+        "trigger": "Säljstart för Orviglance i USA",
+        "date": "2026-06-30",
+        "originalDate": "Q2 2026",
+        "triggerDescription": "Under andra kvartalet 2026 planeras Orviglance att nå marknaden i USA, vilket markerar Ascelias övergång till ett kommersiellt skede med produktförsäljning. En lyckad lansering skulle för första gången generera intäkter från Orviglance och bekräfta det kommersiella intresset för produkten på den amerikanska marknaden. När försäljningen väl drar igång kan aktiemarknaden reagera positivt på de första indikationerna av efterfrågan; dock kan en stor del av förväntningarna redan vara inprisade efter godkännandet. Trots det kan en framgångsrik säljstart ge aktien ett tydligt lyft – potentiellt omkring **30–60 %** i kursökning.",
+        "triggerImpact": "hög",
+        "triggerImpactPercentage": "+30–60%",
+        "triggerType": "kommersiell",
+        "avanzaOwners": 7238
+    },
+    {
+        "stockName": "Klaria Pharma",
+        "trigger": "Licensavtal för försäljning av Sumatriptan Alginatfilm i USA",
+        "date": "2025-12-31",
+        "originalDate": "H2 2025",
+        "triggerDescription": "Klaria siktar på att under andra halvåret 2025 teckna ett licensavtal för att lansera sin Sumatriptan Alginatfilm på den amerikanska marknaden. Efter det europeiska avtalet med CNX Therapeutics (med planerad lansering i flera EU-länder under H2 2025) vore en motsvarande partner i USA ett avgörande steg som öppnar världens största migränläkemedelsmarknad för Klaria. Ett USA-avtal skulle sannolikt innebära en initial betalning och milstolpsersättningar till Klaria samt bekräfta produktens kommersiella potential i stor skala. Givet den stora amerikanska marknaden (cirka 13 mdr SEK i årlig försäljning av sumatriptan:contentReference[oaicite:1]{index=1}) och att bolaget redan har validerat sin produkt genom EU-godkännanden, bedöms ett USA-licensavtal som en **mycket kraftig kurstrigger**. Ett sådant besked kan driva aktien kraftigt uppåt – potentiellt i häradet **80–150 %**.",
+        "triggerImpact": "jättehög",
+        "triggerImpactPercentage": "+80–150%",
+        "triggerType": "partner",
+        "avanzaOwners": 3808
+    }    
+];
+export default triggerData;

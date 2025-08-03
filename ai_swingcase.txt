@@ -15,18 +15,14 @@ Klaria Pharma, Licensavtal försäljning Sumatriptan USA, H2 2025
 En kort triggerbeskrivning (triggerDescription)
 Bedömd kursreaktion (triggerImpact)
 Uppskattad kursuppgång som intervall (triggerImpactPercentage)
+
 triggerImpactPercentage sätts som ett intervall (t.ex. "+40–100%")
-"triggerType" är vilken typ: partner/regulatorisk/studie/lansering
-- sök på internet och hitta antal ägare på avanza, uppdatera "avanzaOwners"
-
-
 
 triggerImpact matchar den nya uppdelningen:
 låg: 0–10%
 mellan: 10–30%
 hög: 30–80%
 jättehög: 80–300%
-
 
 svara i json-array format som följande.
 [
@@ -53,5 +49,22 @@ svara i json-array format som följande.
         "avanzaOwners": 10183
     }
 ];
+
+
+
+--
+
+
+Lipidor checkade alla boxar för det perfekta swingcaset. 
+
+dvs en hyfsad story kring varför man skulle lyckas denna gången, en totalt wipad aktiekurs men fylld kassa, 
+väldigt specifik tidslinje och ett partnerskap med väntande milstolpar.
+samt avslutningsvis att det var fas 3.
+diamyd är inte helt olik även om en helt annan typ av size och bolag
+
+
+--
+
+
 
 
