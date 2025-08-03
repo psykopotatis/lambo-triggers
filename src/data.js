@@ -310,11 +310,11 @@ const triggerData = [
     {
         "stockName": "Ascelia Pharma",
         "trigger": "Kommersiellt partneravtal (USA-marknad Orviglance)",
-        "date": "2025-08-31",
-        "originalDate": "mitten av augusti 2025",
-        "triggerDescription": "Ascelia Pharma väntas teckna ett partneravtal för den amerikanska marknaden för sitt kontrastmedel Orviglance inom kort, i samband med att bolaget kring mitten av augusti 2025 skickar in sin FDA-ansökan. I en intervju har VD antytt att de potentiella milstolpsbetalningarna och royalties från ett sådant avtal skulle vara mycket betydande relativt Ascelias nuvarande börsvärde. Orviglance har nyligen visat positiva fas III-resultat (SPARKLE-studien) och ett kommersiellt partnerskap skulle ge upfront-kapital, dela kostnaderna för lansering och bekräfta marknadspotentialen. För Ascelia, som annars behöver resa mer kapital själv, skulle ett partneravtal undanröja osäkerhet och sannolikt lyfta aktien **betydligt** (storleksordningen tiotals procent uppgång).",
-        "triggerImpact": "hög",
-        "triggerImpactPercentage": "+30–50%",
+        "date": "2025-09-31",
+        "originalDate": "Q3 2025",
+        "triggerDescription": "Ascelia Pharma väntas teckna ett partneravtal för den amerikanska marknaden för sitt kontrastmedel Orviglance inom kort, i samband med att bolaget kring mitten av augusti 2025 skickar in sin FDA-ansökan. I en intervju har VD antytt att de potentiella milstolpsbetalningarna och royalties från ett sådant avtal skulle vara mycket betydande relativt Ascelias nuvarande börsvärde. Orviglance har nyligen visat positiva fas III-resultat (SPARKLE-studien) och ett kommersiellt partnerskap skulle ge upfront-kapital, dela kostnaderna för lansering och bekräfta marknadspotentialen. För Ascelia, skulle ett partneravtal undanröja osäkerhet och sannolikt lyfta aktien betydligt.",
+        "triggerImpact": "jättehög",
+        "triggerImpactPercentage": "+100-120%",
         "triggerType": "partner",
         "avanzaOwners": 7120
     },
