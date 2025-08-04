@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Table, ConfigProvider, Tag, Select } from 'antd';
+import { Table, ConfigProvider, Tag, Select, Card } from 'antd';
 import { DownOutlined, RightOutlined } from '@ant-design/icons';
 import './App.css';
 import triggerData from './data';
@@ -14,6 +14,16 @@ function App() {
   const [expandedRows, setExpandedRows] = useState({}); // { [rowKey]: boolean }
   const [filteredData, setFilteredData] = useState([]);
   const [triggerTypeFilter, setTriggerTypeFilter] = useState('all');
+  const [isMobile, setIsMobile] = useState(window.innerWidth < 768);
+
+  useEffect(() => {
+    const handleResize = () => {
+      setIsMobile(window.innerWidth < 768);
+    };
+
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
 
   useEffect(() => {
     const sortedData = [...triggerData].sort((a, b) => new Date(a.date) - new Date(b.date));
@@ -112,6 +122,43 @@ function App() {
     }
   ];
 
+  const renderCards = () => (
+    <div>
+      {filteredData.map((record) => {
+        const rowKey = record.stockName + record.trigger;
+        const isExpanded = expandedRows[rowKey];
+        return (
+          <Card
+            key={rowKey}
+            title={record.stockName}
+            style={{ marginBottom: 16 }}
+            onClick={() => toggleDescription(rowKey)}
+          >
+            <p><strong>Trigger:</strong> {record.trigger}</p>
+            <p>{record.triggerDescription}</p>
+            <p><strong>Impact:</strong> <Tag color={getImpactColor(record.triggerImpact)}>{record.triggerImpact}</Tag></p>
+            <p><strong>Impact %:</strong> {record.triggerImpactPercentage}</p>
+            <p><strong>Uppskattat datum:</strong> {record.date}</p>
+            <p><strong>Original Datum:</strong> {record.originalDate}</p>
+            <p><strong>Type:</strong> {record.triggerType}</p>
+          </Card>
+        );
+      })}
+    </div>
+  );
+
+  const getImpactColor = (text) => {
+    let color = 'default';
+    if (text === 'hög') {
+      color = 'volcano';
+    } else if (text === 'jättehög') {
+      color = 'red';
+    } else if (text === 'medelhög') {
+      color = 'orange';
+    }
+    return color;
+  };
+
   return (
       <ConfigProvider>
         <div className="container mt-5">
@@ -131,14 +178,16 @@ function App() {
               ))}
             </Select>
           </div>
-          <Table
-              className="lambo-table"
-              dataSource={filteredData}
-              columns={columns}
-              rowKey={(record) => record.stockName + record.trigger}
-              pagination={false}
-              scroll={{ x: 'max-content' }}
-          />
+          {isMobile ? renderCards() : (
+            <Table
+                className="lambo-table"
+                dataSource={filteredData}
+                columns={columns}
+                rowKey={(record) => record.stockName + record.trigger}
+                pagination={false}
+                scroll={{ x: 'max-content' }}
+            />
+          )}
           <Footer />
         </div>
       </ConfigProvider>
