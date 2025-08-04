@@ -50,7 +50,7 @@ const triggerData = [
         "originalDate": "Q4",
         "triggerDescription": "Topplinedata från Guard Therapeutics fas IIb-studie POINTER, som utvärderar läkemedlet RMC-035 (ROSgard) för njurskydd hos patienter som genomgår hjärtkirurgi. Studien är fullrekryterad (170 patienter) och tre månaders uppföljning innebär att resultat väntas mot slutet av 2025. Positivt utfall (skydd av njurfunktion) skulle vara ett stort genombrott och öka sannolikheten för en partner eller fas III-start, givet att nuvarande börsvärde är relativt lågt jämfört med marknadspotentialen.",
         "triggerImpact": "jättehög",
-        "triggerImpactPercentage": "+80–150%",
+        "triggerImpactPercentage": "+100–200%",
         "triggerType": "studie",
         "avanzaOwners": 3259
     },
@@ -154,18 +154,18 @@ const triggerData = [
         "avanzaOwners": 2713
     },
     {
-        "stockName": "Diamyd",
+        "stockName": "Diamyd Medical",
         "trigger": "Interimavläsning fas-3",
         "date": "2026-03-31",
         "originalDate": "mars 2026",
-        "triggerDescription": "Interimsavläsning av den pågående pivotala fas III-studien (DIAGNODE-3) med diabetesvaccinet Diamyd® mot autoimmun typ 1-diabetes. Interimsanalysen kommer omfatta ~170 patienter med 15 månaders uppföljning och väntas ske runt mars 2026. Syftet är att utläsa om behandlingen signifikant bevarar insulinproduktion (C-peptid) jämfört med placebo. Utfallet är avgörande för Diamyds framtid: **vid positiv effekt** – särskilt om den är tydlig – skulle Diamyd kunna gå mot accelererat godkännande, vilket sannolikt skulle mångdubbla aktiens värde (givet det enorma medicinska behovet och marknadens storlek). Givet att förväntningarna är dämpade efter blandade historiska resultat bedöms uppsidan vid ett tydligt positivt interim-resultat som extremt hög.",
+        "triggerDescription": "Interimsavläsning av den pågående pivotala fas III-studien (DIAGNODE-3) med diabetesvaccinet Diamyd® mot autoimmun typ 1-diabetes. Interimsanalysen kommer omfatta ~170 patienter med 15 månaders uppföljning och väntas ske runt mars 2026. Syftet är att utläsa om behandlingen signifikant bevarar insulinproduktion (C-peptid) jämfört med placebo. Utfallet är avgörande för Diamyds framtid: vid positiv effekt – särskilt om den är tydlig – skulle Diamyd kunna gå mot accelererat godkännande, vilket sannolikt skulle mångdubbla aktiens värde (givet det enorma medicinska behovet och marknadens storlek). Givet att förväntningarna är dämpade efter blandade historiska resultat bedöms uppsidan vid ett tydligt positivt interim-resultat som extremt hög.",
         "triggerImpact": "jättehög",
         "triggerImpactPercentage": "+150–300%",
         "triggerType": "studie",
         "avanzaOwners": 13833
     },
     {
-        "stockName": "Corline",
+        "stockName": "Corline Biomedical",
         "trigger": "Kardium besked från FDA",
         "date": "2025-09-30",
         "originalDate": "Q3/Q4",
@@ -319,17 +319,6 @@ const triggerData = [
         "avanzaOwners": 7120
     },
     {
-        "stockName": "Diamyd Medical",
-        "trigger": "Interimsresultat fas III (Diamyd®-vaccinet)",
-        "date": "2026-03-31",
-        "originalDate": "mars 2026",
-        "triggerDescription": "En tidig interimsavläsning av den pågående fas III-studien DIAGNODE-3 med diabetesvaccinet Diamyd® mot typ 1-diabetes väntas kring mars 2026. Interimen omfattar ca 170 patienter som följts i 15 månader och kommer att utvärdera om behandlingen signifikant bevarar den egna insulinproduktionen (C-peptid) jämfört med placebo. **Utfallet är avgörande**: vid tydligt positiv effekt kan Diamyd söka accelererat godkännande hos FDA, vilket skulle vara ett paradigmskifte och potentiellt mångdubbla aktievärdet (givet det enorma medicinska behovet). Om effekten uteblir falnar däremot caset avsevärt. Marknaden har varit försiktig efter blandade historiska resultat, så ett klart positivt interim-resultat skulle komma som en stor positiv överraskning – med extrem uppsida för aktien.",
-        "triggerImpact": "jättehög",
-        "triggerImpactPercentage": "+150–300%",
-        "triggerType": "studie",
-        "avanzaOwners": 13833
-    },
-    {
         "stockName": "Corline Biomedical",
         "trigger": "FDA-besked – Kardiums Globe PF-ablation",
         "date": "2025-12-31",
@@ -339,17 +328,6 @@ const triggerData = [
         "triggerImpactPercentage": "+30–50%",
         "triggerType": "regulatorisk",
         "avanzaOwners": 915
-    },
-    {
-        "stockName": "Guard Therapeutics",
-        "trigger": "Topplinjedata fas IIb (POINTER-studien)",
-        "date": "2025-12-31",
-        "originalDate": "slutet av 2025",
-        "triggerDescription": "Guard Therapeutics väntas presentera topplinjeresultat från sin fas IIb-studie POINTER (RMC-035 för njurskydd vid hjärtkirurgi) mot slutet av 2025. Studien har nu fullrekryterat 170 patienter (3 månaders uppföljning), så data kring njurfunktion bekräftas under Q4. Ett **positivt utfall** – d.v.s. om RMC-035 signifikant skyddar njurarna – vore ett genombrott inom akut njurskada och ökar sannolikheten för ett partneravtal eller att bolaget går mot fas III. Givet Guard’s låga börsvärde i relation till den potentiella marknaden kan en framgångsrik fas IIb ge en kraftig omvärdering av aktien. Analytiker på Carnegie räknar exempelvis med ett licensavtal 2026 värt totalt ~$600 m (inklusive ~$35 m upfront) om POINTER utfaller positivt – något som antyder att marknaden undervärderar caset. Sammantaget förväntas en tydlig kursuppgång vid positiva data (förmodligen i storleksordningen **30–70%**).",
-        "triggerImpact": "hög",
-        "triggerImpactPercentage": "+30–70%",
-        "triggerType": "studie",
-        "avanzaOwners": 3259
     },
     {
         "stockName": "Medivir",
