@@ -18,7 +18,7 @@ const Footer = () => {
     >
       <strong>Ansvarsfriskrivning </strong><br/>
       <br />
-      <p>Denna analys är endast avsedd för informationssyften. Innehållet återspeglar författarens egna åsikter och tolkningar, baserade på offentligt tillgänglig information. Detta är inte investeringsrådgivning. Det är inte en rekommendation att köpa, sälja eller behålla någon specifik värdepapper. Felaktigheter kan förekomma.</p>
+      <p>Dessa analyser är endast avsedd för informationssyften. Innehållet återspeglar författarens och Chat-gpts egna åsikter och tolkningar, baserade på offentligt tillgänglig information. Detta är inte investeringsrådgivning. Det är inte en rekommendation att köpa, sälja eller behålla någon specifik värdepapper. Felaktigheter kan förekomma.</p>
     </div>
   );
 };
