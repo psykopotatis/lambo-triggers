@@ -15,7 +15,8 @@ const InfoBox = () => {
         lineHeight: 1.6,
       }}
     >
-      <strong>Hey!</strong> Denna sida visar kommande <strong>aktietriggers</strong> med hög kurspotential.<br />
+      <strong>Hey!</strong> Denna sida visar kommande <strong>aktietriggers</strong> med hög kurspotential. Vi har samlat alla kommande händelser från Discord (Lambo) och Reddit: <a href="https://www.reddit.com/r/ISKbets/" target='_blank'>https://www.reddit.com/r/ISKbets/</a><br />
+      Sedan bett Chat-gpt att söka efter mer information och uppskatta möjlig kursuppgång, så allting här bör tas med en stor skopa salt! Kontrollera allting! <br/>
       <br />
       <strong>Vad är en trigger?</strong> <br />
       En kommande händelse som förväntas påverka kursen kraftigt, t.ex.:

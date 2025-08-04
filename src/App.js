@@ -5,6 +5,7 @@ import './App.css';
 import triggerData from './data';
 import 'antd/dist/reset.css';
 import InfoBox from './infobox';
+import Footer from './footer';
 
 const { Option } = Select;
 
@@ -138,6 +139,7 @@ function App() {
               pagination={false}
               scroll={{ x: 'max-content' }}
           />
+          <Footer />
         </div>
       </ConfigProvider>
   );
