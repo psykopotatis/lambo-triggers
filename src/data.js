@@ -58,7 +58,7 @@ const triggerData = [
         "stockName": "Dicot",
         "trigger": "Resultat från fas 2a-studie (LIB-01 mot erektionssvikt)",
         "date": "2025-11-30",
-        "originalDate": "hösten 2025",
+        "originalDate": "nov 2025",
         "triggerDescription": "Potensläkemedelsutvecklaren Dicot har avslutat den kliniska delen av sin fas IIa-studie med kandidaten LIB-01 och meddelat att resultat väntas inom tre månader (under hösten 2025). Syftet med studien är att utvärdera LIB-01’s effekt på erektionsförmågan hos män med erektil dysfunktion, ett fält där få nya behandlingsprinciper introducerats sedan Viagra. Om data skulle visa på tydlig förbättring av potensen jämfört med placebo (eller baseline) vore det ett stort genombrott för Dicot – bolaget skulle då ha klinisk bevisning för sin unika mekanism och kunna attrahera betydligt större intresse och kapital. Marknaden för potensmedel är global och lukrativ, vilket gör att en framgång redan i fas 2a kan ge upphov till kraftig spekulation om framtida värde. Sammantaget bedöms ett positivt LIB-01-resultat utlösa en jättehög kursstegring på +80–150%, då Dicot värderas lågt och klinisk proof-of-concept i detta skede vore mycket uppseendeväckande.",
         "triggerImpact": "jättehög",
         "triggerImpactPercentage": "+80–150%",
@@ -86,17 +86,6 @@ const triggerData = [
         "triggerImpactPercentage": "+20–40%",
         "triggerType": "studie",
         "avanzaOwners": 5386
-    },
-    {
-        "stockName": "Xbrane Biopharma",
-        "trigger": "Partneravtal eller försäljningsgenombrott för Ximluci",
-        "date": "2026-06-30",
-        "originalDate": "H1 2026",
-        "triggerDescription": "(Placeholder)",
-        "triggerImpact": "låg",
-        "triggerImpactPercentage": "0–10%",
-        "triggerType": "partner",
-        "avanzaOwners": 11263
     },
     {
         "stockName": "Xbrane Biopharma",
