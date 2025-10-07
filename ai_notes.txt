@@ -1,15 +1,10 @@
 
 
 
-gå genom alla aktier med aktietriggers. 
-
-Ascelia Pharma, Skicka in NDA för FDA-ansökan. Bra stärker förtroendet att allt går som det ska. , mitten av augusti 2025, kurspåverkan låg: 10-15%
-Ascelia Pharma, Besked från FDA, kurspåverkan: hög 100%, q1 2026
-Ascelia Pharma, Säljstart Orviglance USA, kurspåverkan: mellan? 50% ... datum: q2 2026
-Klaria Pharma, Licensavtal försäljning Sumatriptan USA, H2 2025
 
 
-- kontrollera varje bolag och dess trigger,
+
+- kontrollera varje bolag och dess kommande triggers. bolagen ovan är biotech med studie-resultat
 - sök på internet om trigger, skriv kort beskrivning och beräkna möjlig kursuppgång,
 - och till sist uppdatera:
 En kort triggerbeskrivning (triggerDescription)
@@ -55,3 +50,6 @@ svara i json-array format som följande.
 ];
 
 
+ANVÖND INTE aktie-triggers.webflow.io som källa
+
+bara kommande! bara 2025 Q3/Q4 och 2026 får vara med
