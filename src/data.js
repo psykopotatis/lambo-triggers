@@ -4,7 +4,7 @@ const triggerData = [
         "trigger": "Fas 3-resultat för Diamyd (typ 1-diabetes)",
         "date": "2026-03-31",
         "originalDate": "mars 2026",
-        "triggerDescription": "Diamyd Medicals pågående fas III-studie DIAGNODE-3 i typ 1-diabetes (för genetiskt utvalda patienter) väntas avläsas i mars 2026. Detta är bolagets avgörande pivotalstudie för diabetesvaccinet Diamyd®, som under FDA:s Fast Track-program kan ligga till grund för accelererat marknadsgodkännande vid positiva resultat. Diamyd är först ut med en sjukdomsmodiferande immunoterapi som syftar till att bevara patientens egen insulinproduktion, något som skulle adressera ett enormt medicinskt behov. Givet den lovande datan i tidigare studier och avsaknaden av säkerhetsproblem (flera lyckade DSMB-granskningar) är förväntningarna höga. Ett positivt fas 3-besked vore transformativt för Diamyd – det skulle validera bolagets teknologi och öppna vägen för första godkända behandlingen att förändra sjukdomsförloppet i typ 1-diabetes, vilket sannolikt utlöser en jättehög kursreaktion på +80–150% i aktien.",
+        "triggerDescription": "Diamyd Medicals pågående fas III-studie DIAGNODE-3 i typ 1-diabetes (för genetiskt utvalda patienter) väntas avläsas i mars 2026. Detta är bolagets avgörande pivotalstudie för diabetesvaccinet Diamyd, som under FDA:s Fast Track-program kan ligga till grund för accelererat marknadsgodkännande vid positiva resultat. Diamyd är först ut med en sjukdomsmodiferande immunoterapi som syftar till att bevara patientens egen insulinproduktion, något som skulle adressera ett enormt medicinskt behov. Givet den lovande datan i tidigare studier och avsaknaden av säkerhetsproblem (flera lyckade DSMB-granskningar) är förväntningarna höga. Ett positivt fas 3-besked vore transformativt för Diamyd – det skulle validera bolagets teknologi och öppna vägen för första godkända behandlingen att förändra sjukdomsförloppet i typ 1-diabetes, vilket sannolikt utlöser en jättehög kursreaktion på +80–150% i aktien.",
         "triggerImpact": "jättehög",
         "triggerImpactPercentage": "+80–150%",
         "triggerType": "studie",
@@ -26,7 +26,7 @@ const triggerData = [
         "trigger": "Fas II-data för Lipisense (svår hypertriglyceridemi)",
         "date": "2025-12-31",
         "originalDate": "slutet av 2025",
-        "triggerDescription": "Lipigon har slutfört rekryteringen av 23 patienter i sin svenska fas II-studie med Lipisense®, en RNA-baserad behandling för farligt förhöjda blodfetter. Studien fokuserar främst på säkerhet och tolerabilitet, men mäter även behandlingssignal på triglyceridnivåer, remnant-kolesterol och insulinkänslighet hos patienter med grav hypertriglyceridemi. De preliminära resultaten väntas presenteras under andra halvåret 2025 (troligen kring årsskiftet). Utfallet blir en viktig värdedrivare: Om Lipisense visar sig säkert och lyckas sänka skadliga blodfettsnivåer hos patienter skulle det bekräfta plattformens potential och kraftigt öka chanserna till ett fördelaktigt partneravtal. Givet Lipigons låga börsvärde kan ett positivt fas II-resultat ge hög kursreaktion, uppskattningsvis +30–60%, drivet av proof-of-concept för en behandling som kan motverka pankreatit och hjärt-kärlkomplikationer vid extrema blodfettsrubbningar.",
+        "triggerDescription": "Lipigon har slutfört rekryteringen av 23 patienter i sin svenska fas II-studie med Lipisense, en RNA-baserad behandling för farligt förhöjda blodfetter. Studien fokuserar främst på säkerhet och tolerabilitet, men mäter även behandlingssignal på triglyceridnivåer, remnant-kolesterol och insulinkänslighet hos patienter med grav hypertriglyceridemi. De preliminära resultaten väntas presenteras under andra halvåret 2025 (troligen kring årsskiftet). Utfallet blir en viktig värdedrivare: Om Lipisense visar sig säkert och lyckas sänka skadliga blodfettsnivåer hos patienter skulle det bekräfta plattformens potential och kraftigt öka chanserna till ett fördelaktigt partneravtal. Givet Lipigons låga börsvärde kan ett positivt fas II-resultat ge hög kursreaktion, uppskattningsvis +30–60%, drivet av proof-of-concept för en behandling som kan motverka pankreatit och hjärt-kärlkomplikationer vid extrema blodfettsrubbningar.",
         "triggerImpact": "hög",
         "triggerImpactPercentage": "+30–60%",
         "triggerType": "studie",
@@ -70,7 +70,7 @@ const triggerData = [
         "trigger": "FDA-beslut om Dasynoc (USA-marknad, leukemi)",
         "date": "2025-10-07",
         "originalDate": "7 oktober 2025",
-        "triggerDescription": "Den 7 oktober 2025 väntas FDA:s besked angående Xspray Pharmas ansökan om marknadsgodkännande för Dasynoc® (en förbättrad form av cancerläkemedlet dasatinib för KML/ALL). FDA har efter återinlämning av ansökan satt ett PDUFA-datum till 7/10 2025, vilket innebär att bolaget snart kan få veta om Dasynoc godkänns i USA. Vid ett godkännande blir Dasynoc Xsprays första kommersiella produkt – bolaget planerar omedelbar lansering i USA givet grönt ljus. Detta skulle bekräfta Xsprays HyNap-plattform och dess förmåga att ta fram mer effektiva versioner av etablerade läkemedel, vilket kan öppna dörren för partnerskap och intäkter. Aktien har tidigare straffats efter ett FDA-nej (CRL) 2024 och en lyckad vändning nu skulle sannolikt få stor positiv effekt. Marknaden skulle prisa in framtida kassaflöden och reducerad risk, vilket bör leda till en hög kursuppgång på omkring +50–80% vid positivt FDA-besked. (Omvänt skulle ett avslag innebära kursfall.)",
+        "triggerDescription": "Den 7 oktober 2025 väntas FDA:s besked angående Xspray Pharmas ansökan om marknadsgodkännande för Dasynoc (en förbättrad form av cancerläkemedlet dasatinib för KML/ALL). FDA har efter återinlämning av ansökan satt ett PDUFA-datum till 7/10 2025, vilket innebär att bolaget snart kan få veta om Dasynoc godkänns i USA. Vid ett godkännande blir Dasynoc Xsprays första kommersiella produkt – bolaget planerar omedelbar lansering i USA givet grönt ljus. Detta skulle bekräfta Xsprays HyNap-plattform och dess förmåga att ta fram mer effektiva versioner av etablerade läkemedel, vilket kan öppna dörren för partnerskap och intäkter. Aktien har tidigare straffats efter ett FDA-nej (CRL) 2024 och en lyckad vändning nu skulle sannolikt få stor positiv effekt. Marknaden skulle prisa in framtida kassaflöden och reducerad risk, vilket bör leda till en hög kursuppgång på omkring +50–80% vid positivt FDA-besked. (Omvänt skulle ett avslag innebära kursfall.)",
         "triggerImpact": "hög",
         "triggerImpactPercentage": "+50–80%",
         "triggerType": "regulatorisk",
@@ -81,7 +81,7 @@ const triggerData = [
         "trigger": "Fas III-topplinjedata för Emcitate (MCT8-bristsyndrom)",
         "date": "2025-11-30",
         "originalDate": "slutet av november 2025",
-        "triggerDescription": "Egetis inväntar resultat från sin pivotala studie ReTRIACt där läkemedlet Emcitate® (tiratricol) utvärderas för den sällsynta sjukdomen MCT8-brist (Allan-Herndons syndrom). Studien – som FDA krävde för ett amerikanskt godkännande – omfattar 15 patienter och är placebo-kontrollerad. Europa har redan godkänt Emcitate (feb 2025) som första behandling för MCT8-brist, och ett positivt utfall i ReTRIACt skulle bana väg för en NDA-ansökan i USA innan årets slut enligt bolagets plan. Givet att tiratricol visat starka resultat i tidigare studier och fått FDA Breakthrough Therapy-status, är förhoppningen att fas III-data bekräftar dess livräddande effekt (förbättrad neurologisk utveckling och överlevnad) hos dessa svårt drabbade barn. Utfallet är naturligtvis binärt, men marknadsförväntan är relativt optimistisk i och med EU-godkännandet. Ett lyckat fas III-besked bör ändå driva aktien tydligt uppåt, om än inte lika dramatiskt som ett helt oväntat genombrott – en mellanstor kursökning på +20–40% ligger i korten, drivet av att FDA-godkännande i USA kommer ett stort steg närmare.",
+        "triggerDescription": "Egetis inväntar resultat från sin pivotala studie ReTRIACt där läkemedlet Emcitate (tiratricol) utvärderas för den sällsynta sjukdomen MCT8-brist (Allan-Herndons syndrom). Studien – som FDA krävde för ett amerikanskt godkännande – omfattar 15 patienter och är placebo-kontrollerad. Europa har redan godkänt Emcitate (feb 2025) som första behandling för MCT8-brist, och ett positivt utfall i ReTRIACt skulle bana väg för en NDA-ansökan i USA innan årets slut enligt bolagets plan. Givet att tiratricol visat starka resultat i tidigare studier och fått FDA Breakthrough Therapy-status, är förhoppningen att fas III-data bekräftar dess livräddande effekt (förbättrad neurologisk utveckling och överlevnad) hos dessa svårt drabbade barn. Utfallet är naturligtvis binärt, men marknadsförväntan är relativt optimistisk i och med EU-godkännandet. Ett lyckat fas III-besked bör ändå driva aktien tydligt uppåt, om än inte lika dramatiskt som ett helt oväntat genombrott – en mellanstor kursökning på +20–40% ligger i korten, drivet av att FDA-godkännande i USA kommer ett stort steg närmare.",
         "triggerImpact": "mellan",
         "triggerImpactPercentage": "+20–40%",
         "triggerType": "studie",
@@ -96,6 +96,17 @@ const triggerData = [
         "triggerImpact": "låg",
         "triggerImpactPercentage": "0–10%",
         "triggerType": "partner",
+        "avanzaOwners": 11263
+    },
+    {
+        "stockName": "Xbrane Biopharma",
+        "trigger": "FDA-resultat i USA (Ximluci)",
+        "date": "2025-10-21",
+        "originalDate": "21 oktober 2025",
+        "triggerDescription": "FDA-besked i USA rörande Ximluci. Utfallet väntas påverka bolagets utsikter avsevärt: vid godkännande stärks intjäningspotential och partneralternativ, medan ett avslag sannolikt ger tydlig nedsida. Händelsen är binär och marknadsdrivande.",
+        "triggerImpact": "hög",
+        "triggerImpactPercentage": "+30–60%",
+        "triggerType": "regulatorisk",
         "avanzaOwners": 11263
     }
 ]
